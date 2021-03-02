@@ -2,7 +2,7 @@ function add(a: number, b: number): number {
   return a + b
 }
 
-interface User {
+interface  User {
   name: {
     first: string
     middle: string
